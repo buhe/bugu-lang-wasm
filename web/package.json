@@ -1,6 +1,6 @@
 {
   "name": "@create-react-app-wasm/web",
-  "homepage": "http://buhe.github.io/bugu-lang-wasm2",
+  "homepage": "http://buhe.github.io/bugu-lang-wasm",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
