@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/bugu-lang-wasm2/static/css/main.a31bcee3.chunk.css",
-    "main.js": "/bugu-lang-wasm2/static/js/main.09122a61.chunk.js",
-    "main.js.map": "/bugu-lang-wasm2/static/js/main.09122a61.chunk.js.map",
-    "runtime-main.js": "/bugu-lang-wasm2/static/js/runtime-main.a56ac36b.js",
-    "runtime-main.js.map": "/bugu-lang-wasm2/static/js/runtime-main.a56ac36b.js.map",
-    "static/css/2.0c770f5e.chunk.css": "/bugu-lang-wasm2/static/css/2.0c770f5e.chunk.css",
-    "static/js/2.63878634.chunk.js": "/bugu-lang-wasm2/static/js/2.63878634.chunk.js",
-    "static/js/2.63878634.chunk.js.map": "/bugu-lang-wasm2/static/js/2.63878634.chunk.js.map",
-    "static/js/3.2881a011.chunk.js": "/bugu-lang-wasm2/static/js/3.2881a011.chunk.js",
-    "e441547007c8a6b9b166.module.wasm": "/bugu-lang-wasm2/e441547007c8a6b9b166.module.wasm",
-    "static/js/3.2881a011.chunk.js.map": "/bugu-lang-wasm2/static/js/3.2881a011.chunk.js.map",
-    "index.html": "/bugu-lang-wasm2/index.html",
-    "precache-manifest.16e111937850a7ba6898b82ce04335df.js": "/bugu-lang-wasm2/precache-manifest.16e111937850a7ba6898b82ce04335df.js",
-    "service-worker.js": "/bugu-lang-wasm2/service-worker.js",
-    "static/css/2.0c770f5e.chunk.css.map": "/bugu-lang-wasm2/static/css/2.0c770f5e.chunk.css.map",
-    "static/css/main.a31bcee3.chunk.css.map": "/bugu-lang-wasm2/static/css/main.a31bcee3.chunk.css.map"
+    "main.css": "/bugu-lang-wasm/static/css/main.a31bcee3.chunk.css",
+    "main.js": "/bugu-lang-wasm/static/js/main.cfe770f6.chunk.js",
+    "main.js.map": "/bugu-lang-wasm/static/js/main.cfe770f6.chunk.js.map",
+    "runtime-main.js": "/bugu-lang-wasm/static/js/runtime-main.fa972124.js",
+    "runtime-main.js.map": "/bugu-lang-wasm/static/js/runtime-main.fa972124.js.map",
+    "static/css/2.0c770f5e.chunk.css": "/bugu-lang-wasm/static/css/2.0c770f5e.chunk.css",
+    "static/js/2.63878634.chunk.js": "/bugu-lang-wasm/static/js/2.63878634.chunk.js",
+    "static/js/2.63878634.chunk.js.map": "/bugu-lang-wasm/static/js/2.63878634.chunk.js.map",
+    "static/js/3.2881a011.chunk.js": "/bugu-lang-wasm/static/js/3.2881a011.chunk.js",
+    "e441547007c8a6b9b166.module.wasm": "/bugu-lang-wasm/e441547007c8a6b9b166.module.wasm",
+    "static/js/3.2881a011.chunk.js.map": "/bugu-lang-wasm/static/js/3.2881a011.chunk.js.map",
+    "index.html": "/bugu-lang-wasm/index.html",
+    "precache-manifest.93754718c5411aa27931a758bd61e162.js": "/bugu-lang-wasm/precache-manifest.93754718c5411aa27931a758bd61e162.js",
+    "service-worker.js": "/bugu-lang-wasm/service-worker.js",
+    "static/css/2.0c770f5e.chunk.css.map": "/bugu-lang-wasm/static/css/2.0c770f5e.chunk.css.map",
+    "static/css/main.a31bcee3.chunk.css.map": "/bugu-lang-wasm/static/css/main.a31bcee3.chunk.css.map"
   }
 }
