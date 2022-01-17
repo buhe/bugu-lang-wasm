@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bugu-lang-wasm2/precache-manifest.2496aead3d9185ee11bdbe01f7e16357.js"
+  "/bugu-lang-wasm2/precache-manifest.16e111937850a7ba6898b82ce04335df.js"
 );
 
 self.addEventListener('message', (event) => {
