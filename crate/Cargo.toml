@@ -16,6 +16,7 @@ default = ["console_error_panic_hook"]
 [dependencies]
 wasm-bindgen = { version = "0.2.50", features = ['serde-serialize'] }
 js-sys = "0.3.27"
+buguc = "0.3.0"
 
 # `wee_alloc` is a tiny allocator for wasm that is only ~1K in code size
 # compared to the default allocator's ~10K. It is slower than the default

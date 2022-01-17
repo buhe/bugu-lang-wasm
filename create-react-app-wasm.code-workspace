@@ -11,6 +11,10 @@
     }
   ],
   "settings": {
-    "jest.disabledWorkspaceFolders": ["crate", "create-react-app-wasm"]
+    "jest.disabledWorkspaceFolders": [
+      "crate",
+      "create-react-app-wasm"
+    ],
+    "makefile.extensionOutputFolder": "./.vscode"
   }
 }
