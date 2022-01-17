@@ -1,26 +1,28 @@
 import React from 'react';
 import {useCrate, useTakeEffect} from './utils/hooks';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import CodeEditor from '@uiw/react-textarea-code-editor';
 
 const App: React.FC = () => {
   const mod = useCrate();
   const [response, setResponse] = React.useState();
+  const [code, setCode] = React.useState(
+    `int add(int a, int b) {\n  return a + b;\n}`
+  );
 
   useTakeEffect(() => {
-    const resp = mod.compile("int main() {}")
-    console.log(resp)
+    const resp = mod.compile(code);
     setResponse(resp);
   }, [mod]);
 
   return (
     <div className="App">
       <CodeEditor
-        value={"int main() {}"}
+        value={code}
         language="c"
         placeholder="Please enter bugu lang code."
-        // onChange={(evn) => setCode(evn.target.value)}
+        onChange={(evn) => setCode(evn.target.value)}
         padding={15}
         style={{
           margin: 12,
@@ -34,7 +36,10 @@ const App: React.FC = () => {
       <div style={{
         margin: 12,
       }}>
-        <button>compile</button>
+        <button onClick={() => {
+          const resp = mod.compile(code);
+          setResponse(resp);
+        }}>compile</button>
       </div>
       <CodeEditor
         value={response}
