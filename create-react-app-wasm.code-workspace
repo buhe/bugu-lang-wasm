@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "crate"
+    },
+    {
+      "path": "web"
+    },
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "jest.disabledWorkspaceFolders": ["crate", "create-react-app-wasm"]
+  }
+}
